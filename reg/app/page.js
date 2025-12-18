@@ -121,7 +121,7 @@ export default function Home() {
         href="/dashboard"
         className="mt-4 text-blue-600 hover:underline dark:text-blue-400"
       >
-        View Dashboard
+  
       </a>
     </div>
   );
